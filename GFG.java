@@ -18,10 +18,10 @@ class GFG{
         return result;
     }
     public static void main(String[] args){
-        int arr[] = {5,4,10,15,7,6};
+        int arr[] = {5,4,10,15,7,6,2};
         int n = arr.length;
         int x = 5;
-        System.out.print("Count of paris with given XOR = "
+        System.out.print("Count of paris of with given XOR = "
         + xorPairCount(arr, n,x));
     }
 }
