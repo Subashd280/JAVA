@@ -1,0 +1,130 @@
+prefix string:(n-1)
+
+     a substring which is string at index 0
+     & can end at any index other than N-1
+
+suffix string:(n)
+
+     a substring which is ending at index N-1 at can start at any index.     
+
+     s - a b d a f g
+
+     prefix string
+
+     a
+     ab
+     abd
+     abda
+     abdaf
+
+     suffix
+
+     g
+     fg
+     afg
+     dafg
+     bdafg
+     abdafg
+
+     s = abcbc
+     
+     prefix
+
+     a
+     ab
+     abc
+     abcb
+
+     suffix
+
+     c
+     bc
+     cbc
+     bcbc
+     abcbc
+
+     s= a b c a b
+
+     prefix
+
+     a
+     ab
+     abc
+     abca
+
+     suffix
+
+     b
+     ab
+     cab
+     bcab
+     abcab
+(n-1) String comparisons
+
+to calculate length & longest prefix which is 
+
+to compare n string it will take n times to compare
+
+s= a a b a
+
+prefix
+
+a 
+a a
+a a b
+
+suffix
+a
+ba
+aba
+aaba
+
+aabaab
+
+prefix
+a
+aa
+aab
+aaba
+aabaa
+
+suffix
+b
+ab
+aab
+baab
+abaab
+aabaab
+
+aabaaba
+
+a
+aa
+aab
+aaba
+aabaa
+aabaab
+
+a
+ba
+aba
+aaba
+baaba
+abaaba
+aabaaba
+
+aabcaabc
+
+a
+aa
+aab
+aabc
+aabca
+aabcaa
+aabcaab
+
+c
+bc
+abc
+aabc
+ca

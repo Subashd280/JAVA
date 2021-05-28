@@ -1,3 +1,5 @@
+package Basics;
+
 public class SumNatural{
     public static void main(String args[]){
         //here n means num

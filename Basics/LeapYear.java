@@ -1,3 +1,5 @@
+package Basics;
+
 class LeapYear{
     public static void main(String args[]){
         int year = 1500;

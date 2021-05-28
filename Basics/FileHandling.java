@@ -1,3 +1,5 @@
+package Basics;
+
 import java.util.*;
 import java.io.*;
 class FileHandling

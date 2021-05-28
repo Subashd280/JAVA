@@ -1,3 +1,5 @@
+package Basics;
+
 class Alphabet{
     public static void main(String args[]){
         //this will print uppercase Alphabets 27 leeters

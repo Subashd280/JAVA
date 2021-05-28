@@ -1,3 +1,5 @@
+package Basics;
+
 import java.util.*;
 
 class GFG{
