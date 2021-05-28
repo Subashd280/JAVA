@@ -23,7 +23,7 @@ class GFG{
         int arr[] = {5,4,10,15,7,6,2};
         int n = arr.length;
         int x = 5;
-        System.out.print("Count of paris of with given XOR = "
+        System.out.print("Count of pairs of with given XOR = "
         + xorPairCount(arr, n,x));
     }
 }

@@ -2,7 +2,7 @@ package Basics;
 
 class Alphabet{
     public static void main(String args[]){
-        //this will print uppercase Alphabets 27 leeters
+        //this will print uppercase Alphabets 27 letters
         //we change the lowercase Alphabets 27 letters will be printed
         for(char i= 'A'; i<= 'Z'; ++i)
         {
