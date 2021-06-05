@@ -9,23 +9,25 @@ public class Main {
     public static void main(String[] args) {
 
 
-
+//we create object for album and add songs to the object
         Album album = new Album("Album1","AC/DC");
 
         album.addSong("TNT",4.5);
         album.addSong("Highway to hell",3.5);
         album.addSong("ThunderStruck",5.0);
-
+//this album object is added to albums
         albums.add(album);
 
+//we create object for album and add songs to the object
         album = new Album("Album2","Eminem");
 
         album.addSong("Rap god",4.5);
         album.addSong("Not Afraid",3.5);
         album.addSong("Lose yourself",4.5);
-
+//this album object is added to albums
         albums.add(album);
 
+//here is an linkedList created for object and we are adding the songs to the linkedList
         LinkedList<Song> playList_1 = new LinkedList<>();
 
         albums.get(0).addToPlayList("TNT",playList_1);
@@ -38,7 +40,7 @@ public class Main {
         play(playList_1);
 
     }
-
+//method play is used to play the songs inside linkedList
     private static void play(LinkedList<Song> playlist){
           Scanner sc = new Scanner(System.in);
           boolean quit = false;
@@ -127,7 +129,7 @@ public class Main {
             }
         }
     }
-
+//method will show options to be done
     private static void printMenu(){
         System.out.println("Available options\n press");
         System.out.println("0 - to quit\n"+
@@ -139,7 +141,7 @@ public class Main {
                 "6 - delete current song");
 
     }
-
+//method printlist will print the song list inside the linkedList
     private static void printList(LinkedList<Song> playList){
         Iterator<Song> iterator = playList.iterator();
         System.out.println("--------------");
