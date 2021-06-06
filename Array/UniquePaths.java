@@ -24,10 +24,8 @@ public class UniquePaths {
         return arr[m-1][n-1];
     }
     public static void main(String[] args)throws IOException {
-         int [][] arr = {{0,0,0},
-                 {0,1,0},
-                 {0,0,0}};
-        System.out.println(uniquePaths(1,1));
+
+        System.out.println(uniquePaths(3,3));
     }
 
 
