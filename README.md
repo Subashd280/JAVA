@@ -7,3 +7,5 @@ there some array basics inside
 there is a game name brickbreaker 
 
 there is a songplaylist app there
+
+there is a Email creation and random password generator
