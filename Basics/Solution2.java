@@ -37,3 +37,11 @@ class Solution2{
         }
     }
 }
+
+
+ if(x >= (short)-Math.pow(2, 15) && x <=(short) Math.pow(2, 15) - 1)
+        System.out.println("* short");
+        if(x >= (int)-Math.pow(2, 31) && x <=(int) Math.pow(2, 31) - 1)
+            System.out.println("* int");
+        if(x >= (long)-Math.pow(2, 63) && x <=(long) Math.pow(2, 63) - 1)
+            System.out.println("* long");
