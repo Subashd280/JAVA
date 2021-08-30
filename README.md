@@ -11,3 +11,5 @@ there is a songplaylist app there
 there is a Email creation and random password generator
 
 there we created a bankaccount for deposit and withdraw cash 
+
+there we solve algo problems in HackerRank
