@@ -13,7 +13,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/Subash/jar files/core-3.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../jar files/core-3.3.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -22,7 +22,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/Subash/jar files/javase-3.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../jar files/javase-3.3.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
