@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/BankAccount/BankAccount.iml" filepath="$PROJECT_DIR$/BankAccount/BankAccount.iml" />
       <module fileurl="file://$PROJECT_DIR$/BrickBreaker/BrickBreaker.iml" filepath="$PROJECT_DIR$/BrickBreaker/BrickBreaker.iml" />
       <module fileurl="file://$PROJECT_DIR$/EmailApplication/EmailApplication.iml" filepath="$PROJECT_DIR$/EmailApplication/EmailApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QrCode/QrCode.iml" filepath="$PROJECT_DIR$/QrCode/QrCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/SongPlaylistApp/SongPlaylistApp.iml" filepath="$PROJECT_DIR$/SongPlaylistApp/SongPlaylistApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/learnjava.iml" filepath="$PROJECT_DIR$/learnjava.iml" />
     </modules>
