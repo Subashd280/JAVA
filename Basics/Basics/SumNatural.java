@@ -1,4 +1,4 @@
-package Basics;
+package Basics.Basics;
 
 public class SumNatural{
     public static void main(String args[]){

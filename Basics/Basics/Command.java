@@ -1,4 +1,4 @@
-package Basics;
+package Basics.Basics;
 
 public class Command {
     // java 1 2 3

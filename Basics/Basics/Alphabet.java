@@ -1,4 +1,4 @@
-package Basics;
+package Basics.Basics;
 
 class Alphabet{
     public static void main(String args[]){

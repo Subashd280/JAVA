@@ -1,4 +1,4 @@
-package Basics;
+package Basics.Basics;
 //to check command line arguments
 public class Hello {
     public static void main(String[] args) {
